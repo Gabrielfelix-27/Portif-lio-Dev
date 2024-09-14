@@ -1,0 +1,171 @@
+.home01 {
+    width: 1366px;
+    height: auto;
+    background-image: url(/Assets/img/Background_Intro.png);
+    background-size: 100%;
+    
+    
+}
+
+.homesub1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 0 180px;
+}
+
+
+.user {
+    padding-top:57px ;
+    padding-bottom: 56px;
+    width: ;
+}
+
+.user2 {
+    position: absolute;
+    padding-bottom: 350px;
+    padding-left: 70px;    
+}
+.homesub1 h1 {
+    font-family: var(--Asap);
+    font-size: 56px;
+    padding-bottom: 20px;
+}
+
+.p2 {
+    padding-bottom: 80px;
+    color: var(--gray-400);
+    font-family:"Maven Pro", sans-serif;
+    font-size: 15px;
+    line-height: 20px;
+
+
+}
+
+
+.helo{
+  padding-bottom: 8px;
+  color: var(--gray-500);
+  font-family: "Inconsolata", monospace;
+  font-size: 20px;
+}
+
+    .grid-container {
+        display: grid;
+        width: auto;
+        grid-template-columns: repeat(6,auto);
+        gap: 16px;
+        
+    }
+
+    .grid-item2 img{
+        filter: invert(24%) sepia(95%) saturate(6536%) hue-rotate(357deg) brightness(103%) contrast(98%);
+
+    }
+
+    .grid-item3 img{
+        filter: invert(26%) sepia(85%) saturate(1866%) hue-rotate(181deg) brightness(98%) contrast(102%);
+
+    }
+    .grid-item4 img{
+        filter: invert(30%) sepia(90%) saturate(356%) hue-rotate(17deg) brightness(112%) contrast(109%);
+
+    }
+    .grid-item5 img{
+        filter: invert(0%) sepia(100%) saturate(6016%) hue-rotate(108deg) brightness(103%) contrast(107%);
+
+    }
+    .grid-item6 img{
+        filter: invert(41%) sepia(84%) saturate(401%) hue-rotate(44deg) brightness(100%) contrast(89%);
+
+    }
+    
+    
+    .grid-item1 {
+            display: flex;
+            background-color: var(--gray-300);
+            color: var(--gray-500);
+            justify-content: center;
+            border-radius: 30px;
+            height: 40px;
+            padding: 9px 16px ;
+            gap: 8px;
+        }
+        .grid-item2{
+            display: flex;
+            background-color: var(--gray-300);
+            color: var(--gray-500);
+            justify-content: center;
+            border-radius: 30px;
+            height: 40px;
+            padding: 9px 16px ;
+            gap: 8px;
+        }
+
+        .grid-item3 {
+            display: flex;
+            background-color: var(--gray-300);
+            color: var(--gray-500);
+            justify-content: center;
+            border-radius: 30px;
+            height: 40px;
+            padding: 9px 16px ;
+            gap: 8px;
+        }
+
+        .grid-item4 {
+            display: flex;
+            background-color: var(--gray-300);
+            color: var(--gray-500);
+            justify-content: center;
+            border-radius: 30px;
+            height: 40px;
+            padding: 9px 16px ;
+            gap: 8px;
+        }
+
+        .grid-item5 {
+            display: flex;
+            background-color: var(--gray-300);
+            color: var(--gray-500);
+            justify-content: center;
+            border-radius: 30px;
+            height: 40px;
+            padding: 9px 16px ;
+            gap: 8px;
+        }
+
+        .grid-item6 {
+            display: flex;
+            background-color: var(--gray-300);
+            color: var(--gray-500);
+            justify-content: center;
+            border-radius: 30px;
+            height: 40px;
+            padding: 9px 16px ;
+            gap: 8px;
+        }
+    
+        
+  
+    
+  
+
+    .p3 {
+      font-family: "Maven Pro", sans-serif;
+      font-size: 16px;
+    }
+
+
+ 
+
+
+    .setabaixo {
+        padding-top: 94px;
+        padding-bottom: 57px;
+        width: 32px;
+        height: 32px;
+    }
+
+   
